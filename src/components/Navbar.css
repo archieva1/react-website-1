@@ -43,6 +43,7 @@
     width: 60vw;
     justify-content: end;
     margin-right: 2rem;
+    
   }
   
   .nav-item {
@@ -88,6 +89,7 @@
       position: absolute;
       top: 80px;
       left: -100%;
+      justify-content: flex-start ;
       opacity: 1;
       transition: all 0.5s ease;
     }
